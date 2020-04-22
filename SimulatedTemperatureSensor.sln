@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimulatedTemperatureSensor", "SimulatedTemperatureSensor\SimulatedTemperatureSensor.csproj", "{881C679B-836D-4907-BB44-07573BFFBEB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevelopmentTools", "DevelopmentTools\DevelopmentTools.csproj", "{60BC7545-6CD9-4D80-94FB-23CF130F2776}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Manifests", "Manifests", "{769B3552-723B-4018-8385-F285B070B62F}"
+	ProjectSection(SolutionItems) = preProject
+		manifest.json = manifest.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{881C679B-836D-4907-BB44-07573BFFBEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881C679B-836D-4907-BB44-07573BFFBEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881C679B-836D-4907-BB44-07573BFFBEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881C679B-836D-4907-BB44-07573BFFBEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BC7545-6CD9-4D80-94FB-23CF130F2776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BC7545-6CD9-4D80-94FB-23CF130F2776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BC7545-6CD9-4D80-94FB-23CF130F2776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BC7545-6CD9-4D80-94FB-23CF130F2776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A4CA395-E2F9-4EAA-816F-307F9D354C4C}
+	EndGlobalSection
+EndGlobal

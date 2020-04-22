@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DevelopmentTools": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../manifest.json dev_device \"YOUR_IOT_HUB_OWNER_CONNECTION_STRING\""
+    }
+  }
+}
