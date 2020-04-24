@@ -13,7 +13,7 @@ To run this application, you need .NET Core SDK (>= 3.1), Docker and an IoT Hub.
    git clone https://github.com/paloukari/SimulatedTemperatureSensor
 ```
 
-2. Start the IoT Edge Simulator:
+2. Start the IoT Edge Emulator:
 
 ``` bash
    cd DevelopmentTools
