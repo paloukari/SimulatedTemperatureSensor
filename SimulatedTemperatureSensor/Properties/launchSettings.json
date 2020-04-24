@@ -3,7 +3,7 @@
     "SimulatedTemperatureSensor": {
       "commandName": "Project",
       "environmentVariables": {
-        "DOTNET_ENVIRONMENT": "Emulated"
+        //"DOTNET_ENVIRONMENT": "Emulated"
         //"DOTNET_ENVIRONMENT": "Standalone",
       }
     },
