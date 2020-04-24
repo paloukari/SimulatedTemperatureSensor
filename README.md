@@ -23,8 +23,7 @@ To run this application, you need .NET Core SDK (>= 3.1), Docker and an IoT Hub.
 3. Run the application
 
 ``` bash
-cd ..
-cd SimulatedTemperatureSensor
-dotnet run
+   cd ..
+   cd SimulatedTemperatureSensor
+   dotnet run --environment "Emulated"
 ``` 
-> The `DOTNET_ENVIRONMENT` environment variable is set [here](https://github.com/paloukari/SimulatedTemperatureSensor/blob/master/SimulatedTemperatureSensor/Properties/launchSettings.json).
