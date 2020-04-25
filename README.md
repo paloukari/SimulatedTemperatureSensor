@@ -28,3 +28,5 @@ To run this application, you need .NET Core SDK (>= 3.1), Docker and an IoT Hub.
    cd SimulatedTemperatureSensor
    dotnet run --environment "Emulated"
 ``` 
+
+You should see telemetry messages flowing in your IoT Hub.
